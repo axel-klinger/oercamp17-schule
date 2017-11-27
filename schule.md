@@ -14,9 +14,5 @@ Webseite: http://talalab.net
 Kurse
 ---
 
-+ Klasse 5
-  * [Informatik - Programmierung](https://github.com/axel-klinger/informatik-kurs/blob/master/kurs.md)
-  * [Mathe - Grundrechenarten](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/schule/klasse-7/mathe/kurs.md)
-+ Klasse 6
-+ Klasse 7
-+ Klasse 8
++ OER Klasse 1
+  * [Erster OER Kurs](https://github.com/axel-klinger/oercamp17-kurs/blob/master/kurs.md)
